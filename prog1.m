@@ -6,3 +6,5 @@
 
 % (psb) now I am trying a branch to the program; this branch is called prog2.
 
+
+% (psb) this is another comment for a branch after merging the first branch with the master. 
